@@ -10,7 +10,7 @@ In three steps:
 ```php
 $config['VariabilizedCssLoader.enabled'] = true;
 ```
-3. Create the _**css-variables.ini** at the root of your theme folder. For instance, with the default theme, this file will be at _./theme/default/css-variables.ini_.
+3. Create the _**css-variables.ini**_ at the root of your theme folder. For instance, with the default theme, this file will be at _./theme/default/css-variables.ini_.
 
 N.B: this file contains all the value of the variables to substitute in CSS.
 
